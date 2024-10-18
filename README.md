@@ -16,7 +16,7 @@ Este repositorio contiene un entorno configurado utilizando un archivo YAML, el 
     git clone git@github.com:carlota111/repoEnviroment.git
     ```
 
-##Intrucciones para correr el código
+## Intrucciones para correr el código
 
 1. Activar el enviroment:
 ```bash
